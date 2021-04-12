@@ -7,7 +7,7 @@
 
 ### I'm fullstack developer, but I love the backend 😉
 
-<img src="https://i.gifer.com/Zd7t.gif" />
+[<img src="https://i.gifer.com/Zd7t.gif" />](https://i.gifer.com/Zd7t.gif)
 
 ## 👩🏻‍💻 About me
 
